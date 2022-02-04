@@ -1,5 +1,7 @@
 # Texasnft_token
-Stolidity  coding
+Stolidity coding
+
+
 /**
  *Submitted for verification at BscScan.com on 2021-12-26
 */
